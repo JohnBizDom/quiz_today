@@ -1,1 +1,1 @@
-Remove the page count the right side bar. and jus like the questions and category fix the time too. 
+Remove the page count the right side bar. and jus like the questions and category fix the time too. Fix ui and make it better
